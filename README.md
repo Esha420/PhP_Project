@@ -1,2 +1,2 @@
-# ReactProject
+# PHP Project
 Expense Tracking System
